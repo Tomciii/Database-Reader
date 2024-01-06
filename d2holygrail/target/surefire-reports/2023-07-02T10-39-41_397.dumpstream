@@ -1,0 +1,5 @@
+# Created at 2023-07-02T10:39:41.866
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Coding\Angular Diablo 2 Holy Grail\d2_holy_grail_backend\d2holygrail\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
